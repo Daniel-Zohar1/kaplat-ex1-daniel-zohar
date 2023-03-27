@@ -1,1 +1,2 @@
 some work on b.txt
+another work on b.txt
